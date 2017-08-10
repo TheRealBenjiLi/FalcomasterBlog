@@ -4,7 +4,7 @@ date: 2017-08-09 16:12:51
 tags:
 ---
 
-Hi everyone! I'm Benji, a Norcal Jigglypuff player creating a program to play Super Smash Bros. Melee for the Nintendo GameCube. I started this development blog to keep everyone updated on my progress working on this project! :D
+Hi everyone! I'm Benji, a Norcal Jigglypuff player and UC Berkeley student creating a program to play Super Smash Bros. Melee for the Nintendo GameCube. I started this development blog to keep everyone updated on my progress working on this project! :D
 
 ### What is Falcomaster
 
@@ -12,19 +12,17 @@ Falcomaster is going to be a supervised learning program that will mimic human
 playstyles. It will watch a human play Melee, then it will learn to make choices
 mimicking the human player.
 
-Wait, what IS supervised learning? And how are we going to apply it to Falcomaster?
+Wait, what IS supervised learning? And how does it apply to Falcomaster?
 
-Supervised learning is a machine learning technique. Like many machine learning
-techniques, it involves a program to be trained via training data. The training
-data consists of an input and an expected output. In our case, the input would
-be video frames/footage of gameplay, and the expected output would be the next
-button press in the video.
+Supervised learning is a machine learning technique. It involves a program taking in training data (this is also known as "training a program"). The training data consists of an input and an expected output. Later, when it is presented with real data, the program can utilize its training to draw conclusions. If you want a more formal definition on supervised learning, Wikipedia has an article [here](https://en.wikipedia.org/wiki/Supervised_learning).
 
-The program would take in the video footage as part of training, and it will try
-to "predict" the correct corresponding button to press. The correct buttons would be the buttons the human
-player presses. Eventually, with enough
-training data and time, the program will correctly predict the proper buttons
-to press given any video frame, therefore copying a human's playstyle.
+In our case, the input will be video frames/footage of gameplay, and the expected output will be the next
+button press in the video. The program will take in the video footage as part of training, and it will try
+to "predict" the correct corresponding button on a GameCube controller to press. The correct buttons will be the buttons the human
+player presses in the video. Eventually, with enough training data and time, the program will correctly predict the proper buttons
+to press in any gameplay situation, thus copying a human's playstyle.
+
+For now, I'm planning to have Falcomaster run in computer environments alongside GameCube emulators, like Dolphin. But there is potential to port Falcomaster to run on a GameCube. 
 
 ### Why Create Falcomaster
 
@@ -39,15 +37,17 @@ One, I really want to give it a try myself. I know I can just contribute to the
 two existing projects as well, but I'd love to try my supervised learning approach,
 which I don't think the other two projects use.
 
-Two, my project works in a different niche than SmashBot and Phillip. SmashBot and Phillip are interested in creating the ultimate Melee AI, taking advantage of a computer's consistent ability to do superhuman input strings. Falcomaster, instead, just wants to copy a human.
+Two, my project works in a different niche than SmashBot and Phillip. SmashBot and Phillip are both interested in creating the ultimate Melee AI, taking advantage of a computer's consistent ability to do superhuman inputs. Falcomaster, instead, just wants to copy human behavior.
 
 Three, Falco is sick. Enough said.
 
-I plan to look over the work done by altf4 and vladfi1. There are some traits that are shared in all our projects, such as imitating a GameCube controller's input. 
+I plan to look over the work done by altf4 and vladfi1. There are some shared traits in all our projects, such as imitating GameCube controllers inputs. No need to start completely from scratch ;)
 
 ### Who is Falcomaster
 
-__
+There's a joke/urban legend/meme in the competitive Melee community about a player/entity named Falcomaster. It is said that no one knows who Falcomaster really is, but, once in a blue moon, Falcomaster will come to a tournament near you, destroy everyone, and leave without a trace. 
+
+I named this project after the urban legend Falcomaster...just because I thought it sounded cool :P
 
 ### More Questions?
 
