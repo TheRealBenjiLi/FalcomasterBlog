@@ -37,7 +37,7 @@ One, I really want to give it a try myself. I know I can just contribute to the
 two existing projects as well, but I'd love to try my supervised learning approach,
 which I don't think the other two projects use.
 
-Two, my project works in a different niche than SmashBot and Phillip. SmashBot and Phillip are both interested in creating the ultimate Melee AI, taking advantage of a computer's consistent ability to do superhuman inputs. Falcomaster, instead, just wants to copy human behavior.
+Two, my project works in a different niche than the existing projects. SmashBot and Phillip are both interested in creating the ultimate Melee AI, taking advantage of a computer's consistent ability to do superhuman inputs. Falcomaster, instead, just wants to copy human behavior.
 
 Three, Falco is sick. Enough said.
 
