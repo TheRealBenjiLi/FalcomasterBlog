@@ -1,10 +1,12 @@
 ---
 title: 'Falcomaster Post #0: What is Falcomaster?'
-date: 2017-08-11 16:12:51
+date: 2017-08-12 16:12:51
 tags:
 ---
 
-Hi everyone! I'm Benji, a Norcal Jigglypuff player and UC Berkeley student creating a program to play Super Smash Bros. Melee for the Nintendo GameCube. I started this development blog to keep everyone updated on my progress working on this project! :D
+Hi everyone! I'm Benji, a Norcal Jigglypuff player and UC Berkeley student creating a program to play Super Smash Bros. Melee for the Nintendo GameCube. I started this development blog to keep everyone updated on my progress working on this project! I'm not sure how often I will post (I don't want to commit to weekly posts if new developments don't happen weekly), but I will post as often as I can :D
+
+My code will be up on GitHub as well, for those that want to follow. No code has been written yet, but the repositories will be found in the "About" section on this website! I'll also link the relevant GitHub repositories each time I post :)
 
 ### What is Falcomaster
 

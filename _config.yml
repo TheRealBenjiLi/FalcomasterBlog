@@ -7,7 +7,7 @@ title: Falcomaster
 subtitle:
 description:
 author: Benjamin Li
-language:
+language: default
 timezone:
 
 # URL
@@ -77,4 +77,5 @@ theme: alpha-dust
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: 
+  type: heroku
+  repo: https://git.heroku.com/thawing-forest-56255.git
