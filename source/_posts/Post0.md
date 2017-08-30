@@ -1,5 +1,5 @@
 ---
-title: 'Falcomaster Post #0: What is Falcomaster?'
+title: 'Post #0: What is Falcomaster?'
 date: 2017-08-12 16:12:51
 tags:
 ---
