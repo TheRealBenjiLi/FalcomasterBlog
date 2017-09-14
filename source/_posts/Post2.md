@@ -1,7 +1,9 @@
 ---
-title: "Post #2: Heat Waves and Future Challenges"
+title: 'Post #2: Heat Waves and Future Challenges'
+date: 2017-09-13 21:04:21
 tags:
 ---
+
 Over the last two weeks, the Bay Area where I live was hit with a massive heat wave. Unfortunately, the Bay Area is not used to high temperatures, so there are no air conditioners where I live. Around the same time, I got a cold. So instead of working on the Falcomaster project, I spent time getting myself back onto my feet and catching up on all the schoolwork I neglected as I was sick >.<
 
 This means I don't have any real progress to report. Instead, I'll use this post to discuss other things about this project :)
