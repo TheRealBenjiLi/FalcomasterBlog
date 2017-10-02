@@ -39,6 +39,6 @@ Fifth, open `GCPadNew.ini` in a text editor (I use Vim. Because why not. Don't g
 
 So what's the point of all this? The first step was to create the pipe we need to communicate. The second step gives Dolphin an outlet for our commands to go through. The next three steps are installing spxtr's config file. If we didn't do those three steps, we would have to manually set the Standard Controller's inputs, which is extremely painful.
 
-After all this, I ran p3 with spxtr's instructions, and [presto](https://imgur.com/waKgpV1)! The cursor rapidly circles on the screen. The gif does not do it justice, so note to self: look for video recording software.
+After all this, I ran p3 with spxtr's instructions, and [presto](https://youtu.be/Yqlocg5dI-s)!
 
-Now that this has finished, I can get to the fun parts. I can now dive deeper into the code for p3, and after that, design the neural nets to train Falcomaster! Stay tuned, everyone! <3
+Up next, I need to dive deeper into the code for p3, figure out how the bot will view the game screen, and design the neural nets to train Falcomaster! Stay tuned, everyone! <3
